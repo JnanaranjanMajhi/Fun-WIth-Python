@@ -21,7 +21,7 @@ Creates dynamic, animated visualizations by computing the positions of 10,000 po
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/001shahab/kuzuri.git
+git clone https://github.com/JnanaranjanMajhi/Fun-WIth-Python.git
 cd kuzuri
 ```
 
@@ -42,7 +42,7 @@ python Animation.py
 
 The visualization is based on parametric equations that transform each point through several mathematical operations:
 
-1. **Base Coordinates**: Points are generated from indices 0 to 9999
+1. **Base Coordinates**: Points are generated from indices 0 to 11999
 2. **Trigonometric Transformations**: Multiple sine and cosine functions create wave-like patterns
 3. **Time Dependency**: The parameter `t` evolves over time, creating smooth animations
 4. **Spatial Mapping**: Final coordinates are mapped to screen space with appropriate scaling
