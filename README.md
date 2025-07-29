@@ -22,7 +22,7 @@ Creates dynamic, animated visualizations by computing the positions of 10,000 po
 1. Clone this repository:
 ```bash
 git clone https://github.com/JnanaranjanMajhi/Fun-WIth-Python.git
-cd kuzuri
+cd Fun-WIth-Python
 ```
 
 2. Install the required dependencies:
