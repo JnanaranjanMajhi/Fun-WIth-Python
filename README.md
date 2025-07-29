@@ -1,4 +1,4 @@
-# Fun-WIth-Python
+# Fun-With-Python
 ## 🎨 Overview
 
 Creates dynamic, animated visualizations by computing the positions of 10,000 points using sophisticated parametric equations involving trigonometric functions, square roots, and time-dependent variables. The result is a continuously morphing point cloud that creates beautiful, hypnotic patterns.
